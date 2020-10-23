@@ -1,0 +1,11 @@
+{
+    "inicios": [
+        "plazo",
+        "plazo hasta el dia"
+    ],
+    "fines": [
+        "monto",
+        " si no ",
+        " de no poder"
+    ]
+}
